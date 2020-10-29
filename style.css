@@ -1,0 +1,19 @@
+h1
+{
+	color: black;
+}
+
+body
+{
+	background-color: grey;
+}
+
+#carte1
+{
+
+	width: 800px;
+	margin:0 auto;
+	background-color: yellow;
+	text-align: center;
+	align-content: center;
+}
